@@ -3,7 +3,7 @@ Blacker Than Jack is a fictional casino game where a card is drawn and all playe
 The dealer always rolls first. If any player rolls snake eyes (2) they instantly win the game. If a player ties with the dealer, the dealer wins.
 
 The file BlackerThanJackSIMULATION.py is a Monte Carlo simulation which aims to aproximate the profit ratio from the perspective of the dealer.
-DEPENDANCIES TO RUN: Numpy, Matplotlib, and TQDM
+DEPENDANCIES TO RUN: Numpy, Matplotlib, and TQDM,
 Coded in python 3.12.3
 
 ____________________________________________________________________________________________________________________________________________________________________________
